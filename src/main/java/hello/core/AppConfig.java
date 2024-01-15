@@ -1,7 +1,7 @@
 package hello.core;
 
 import hello.core.disconut.DiscountPolicy;
-import hello.core.disconut.FixDiscountPolicy;
+
 import hello.core.disconut.RateDiscountPolicy;
 import hello.core.member.MemberRepository;
 import hello.core.member.MemberService;
