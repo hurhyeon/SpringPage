@@ -5,6 +5,8 @@ import hello.core.member.Member;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
+
+//실험용
 @Component
 
 public class FixDiscountPolicy implements DiscountPolicy{
