@@ -9,6 +9,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import java.util.Optional;
 
+
+//test용도
 public class AutoWiredTest {
 
     @Test
