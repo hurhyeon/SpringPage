@@ -14,6 +14,8 @@ import java.util.Map;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+
+//Test용도
 public class AllBeanTest {
 
     @Test
