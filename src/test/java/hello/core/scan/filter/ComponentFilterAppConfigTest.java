@@ -9,6 +9,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.FilterType;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.springframework.context.annotation.ComponentScan.Filter;
+
+//test용
 public class ComponentFilterAppConfigTest {
 
     @Test
