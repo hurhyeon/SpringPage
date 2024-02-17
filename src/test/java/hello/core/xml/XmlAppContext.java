@@ -7,6 +7,7 @@ import org.springframework.context.support.GenericXmlApplicationContext;
 
 import static org.assertj.core.api.Assertions.*;
 
+//test용도
 public class XmlAppContext {
 
     @Test
