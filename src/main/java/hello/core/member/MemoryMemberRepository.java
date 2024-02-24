@@ -1,5 +1,6 @@
 package hello.core.member;
 
+//test용
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
