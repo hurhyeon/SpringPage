@@ -3,7 +3,7 @@ package hello.core.member;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-//Test용
+//test용
 @Component
 public class MemberServiceImpl implements MemberService {
 
