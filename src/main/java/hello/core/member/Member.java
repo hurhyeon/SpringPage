@@ -1,7 +1,6 @@
 package hello.core.member;
 
 
-//test용
 public class Member {
 
     private Long id;
