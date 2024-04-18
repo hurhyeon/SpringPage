@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-//test용
+
 class StatefulServiceTest {
 
     @Test
