@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-//test용
+
 public class MemberServiceTest {
     MemberService memberService;
 
