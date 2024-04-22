@@ -9,7 +9,7 @@ import
         org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import static org.assertj.core.api.Assertions.*;
 
-//Test용도
+
 public class AutoAppConfigTest {
     @Test
     void basicScan() {
