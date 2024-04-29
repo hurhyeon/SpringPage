@@ -8,7 +8,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 
 
-//test용
+
 class ApplicationContextInfoTest {
     AnnotationConfigApplicationContext ac =new AnnotationConfigApplicationContext(AppConfig.class);
 
