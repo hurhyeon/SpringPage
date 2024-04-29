@@ -17,7 +17,7 @@ import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
-//test용
+
 public class ApplicationContextSameBeanFindTest {
 
     AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(sameBeanConfig.class);
