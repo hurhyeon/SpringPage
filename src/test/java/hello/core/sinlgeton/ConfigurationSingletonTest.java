@@ -11,7 +11,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-//test용
+
 public class ConfigurationSingletonTest {
 
     @Test
