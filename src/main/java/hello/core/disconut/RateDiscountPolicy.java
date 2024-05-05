@@ -1,7 +1,7 @@
 package hello.core.disconut;
 
 
-//test용
+
 import hello.core.annotation.MainDiscountPolicy;
 import hello.core.member.Grade;
 import hello.core.member.Member;
