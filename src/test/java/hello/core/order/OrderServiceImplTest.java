@@ -1,5 +1,5 @@
 package hello.core.order;
-//test용
+
 import hello.core.disconut.FixDiscountPolicy;
 import hello.core.member.Grade;
 import hello.core.member.Member;
