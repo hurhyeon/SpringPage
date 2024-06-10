@@ -25,12 +25,14 @@ public class ApplicationContextBasicFindTest {
         System.out.println("memberService.getClass() = " + memberService.getClass());
         assertThat(memberService).isInstanceOf(MemberServiceImpl.class);
     }
+    
     @Test
     @DisplayName("이름 없이 타입으로만 조회")
     void findBeanByType(){
         MemberService memberService = ac.getBean(MemberService.class);
         assertThat(memberService).isInstanceOf(MemberServiceImpl.class);
     }
+    
     @Test
     @DisplayName("구체 타입으로 조회")
     void findBeanByName2(){
