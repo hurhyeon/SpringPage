@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 public class FixDiscountPolicy implements DiscountPolicy{
 
-    private int discountFixAmount = 1000; //1000원할인
+    private int discountFixAmount = 1000;
 
     @Override
     public int discount(Member member, int price){
