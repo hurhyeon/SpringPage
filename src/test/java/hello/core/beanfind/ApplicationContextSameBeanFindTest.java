@@ -22,6 +22,7 @@ public class ApplicationContextSameBeanFindTest {
 
     AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(sameBeanConfig.class);
 
+    
     @Test
     @DisplayName("타입으로 조회시 같은 타입이 둘 이상 있으면, 중복 오류가 발생한다")
     void findBeanByTypeDuplicate() {
