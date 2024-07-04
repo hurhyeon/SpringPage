@@ -36,7 +36,6 @@ public class Member {
         this.grade = grade;
     }
 
-
 }
 
 
